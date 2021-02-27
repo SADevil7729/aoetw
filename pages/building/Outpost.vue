@@ -181,10 +181,6 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：哨站石頭花費-15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：哨站建造速度快33%。
-            </li>
-            <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：哨站<nuxt-link
                 to="/resource/Wood"
                 >木頭</nuxt-link
